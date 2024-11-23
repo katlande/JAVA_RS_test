@@ -1,2 +1,9 @@
 # Example
-An example greeter plugin
+
+
+
+
+
+
+# Resources
+Set up: https://www.youtube.com/watch?v=mB5Wxfx0Ork
